@@ -1,0 +1,9 @@
+name: jupyter-environment
+channels:
+  - jupyter
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - plotly
+  - ipywidgets
